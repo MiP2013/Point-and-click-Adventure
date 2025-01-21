@@ -1,2 +1,3 @@
 # Point-and-click-Adventure
-Ein Point and click adventure 
+Name: Ein Point and click Adventure  
+Ziel: 
